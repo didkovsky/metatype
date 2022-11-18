@@ -1,0 +1,31 @@
+{
+  "name": "@didkovsky/metatype",
+  "version": "1.0.0",
+  "description": "Runtime type validation system for browser and nodejs.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "devDependencies": {
+    "metatests": "^0.8.2"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didkovsky/metatype.git"
+  },
+  "keywords": [
+    "metatype",
+    "metaclass",
+    "runtime type validation"
+  ],
+  "author": "Sergey Didkovsky <didkovsky.dev@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didkovsky/metatype/issues"
+  },
+  "homepage": "https://github.com/didkovsky/metatype#readme"
+}
